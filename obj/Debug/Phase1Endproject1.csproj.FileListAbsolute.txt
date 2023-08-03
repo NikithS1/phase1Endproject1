@@ -1,0 +1,8 @@
+D:\mphasis\Assisted project\Phase1Endproject1\Phase1Endproject1\bin\Debug\Phase1Endproject1.exe.config
+D:\mphasis\Assisted project\Phase1Endproject1\Phase1Endproject1\bin\Debug\Phase1Endproject1.exe
+D:\mphasis\Assisted project\Phase1Endproject1\Phase1Endproject1\bin\Debug\Phase1Endproject1.pdb
+D:\mphasis\Assisted project\Phase1Endproject1\Phase1Endproject1\obj\Debug\Phase1Endproject1.csproj.AssemblyReference.cache
+D:\mphasis\Assisted project\Phase1Endproject1\Phase1Endproject1\obj\Debug\Phase1Endproject1.csproj.SuggestedBindingRedirects.cache
+D:\mphasis\Assisted project\Phase1Endproject1\Phase1Endproject1\obj\Debug\Phase1Endproject1.csproj.CoreCompileInputs.cache
+D:\mphasis\Assisted project\Phase1Endproject1\Phase1Endproject1\obj\Debug\Phase1Endproject1.exe
+D:\mphasis\Assisted project\Phase1Endproject1\Phase1Endproject1\obj\Debug\Phase1Endproject1.pdb
